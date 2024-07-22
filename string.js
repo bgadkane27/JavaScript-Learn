@@ -29,11 +29,11 @@ console.log(fNmae.includes('W'));   //The string includes a character or not
 
 
 let sNmae=new String("Santosh-Wagh");
-//console.log(sNmae.split('-'));  
+console.log(sNmae.split('-'));  
 
 console.log(sNmae.slice(4));               // Extracts a section of this string and returns it as a new string
 console.log(sNmae.slice(4, 10));           // Extracts a section of this string and returns it as a new string. In this excludes string from 10 character
-console.log(sNmae.slice(-4, 0));
+// console.log(sNmae.slice(-1, -4));
 
 
 //console.log(fNmae.substring(4,10));
