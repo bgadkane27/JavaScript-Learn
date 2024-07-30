@@ -17,3 +17,12 @@ console.log("A", myArr[2]);
 
 // myArr.shift();
 // console.log("D",myArr);
+
+console.error("Page Not Found")
+
+console.info("201 Created")
+
+console.table(myArr)
+
+console.warn("Provide object value")
+
